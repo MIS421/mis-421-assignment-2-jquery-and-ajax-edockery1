@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xuBW/B8tRgYOGRQTdCrpyU5SVdWSLKTYXI/5IVnJS4s=",
+  "Hash": "Rmz+LnaKfvHDoP+zc+sGtLZqw34/AFaGky5Xafp+2IU=",
   "Source": "edockery1-521-search-api",
   "BasePath": "_content/edockery1-521-search-api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "edockery1-521-search-api\\wwwroot",
       "Source": "edockery1-521-search-api",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\imgs\\lego_wallpaper.jpg",
+      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\imgs\\lego_wallpaper.jpg",
       "SourceId": "edockery1-521-search-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "RelativePath": "imgs/lego_wallpaper.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\lego_wallpaper.jpg"
     },
     {
-      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\imgs\\lego-hand.png",
+      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\imgs\\lego-hand.png",
       "SourceId": "edockery1-521-search-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "RelativePath": "imgs/lego-hand.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\lego-hand.png"
     },
     {
-      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\imgs\\lego-head-2.png",
+      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\imgs\\lego-head-2.png",
       "SourceId": "edockery1-521-search-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "RelativePath": "imgs/lego-head-2.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\lego-head-2.png"
     },
     {
-      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\imgs\\leog_wallpaper_2.jpg",
+      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\imgs\\leog_wallpaper_2.jpg",
       "SourceId": "edockery1-521-search-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "RelativePath": "imgs/leog_wallpaper_2.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\leog_wallpaper_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\index.html",
       "SourceId": "edockery1-521-search-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\README.md",
+      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\README.md",
       "SourceId": "edockery1-521-search-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "RelativePath": "README.md",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\README.md"
     },
     {
-      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\script.js",
+      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\script.js",
       "SourceId": "edockery1-521-search-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "RelativePath": "script.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\style.css",
       "SourceId": "edockery1-521-search-api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\wwwroot\\",
       "BasePath": "_content/edockery1-521-search-api",
       "RelativePath": "style.css",
       "AssetKind": "All",

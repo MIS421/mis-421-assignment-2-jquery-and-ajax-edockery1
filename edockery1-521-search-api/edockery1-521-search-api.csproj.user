@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\ellie\OneDrive\Desktop\MIS-521\edockery1-521-search-api\edockery1-521-search-api\Properties\PublishProfiles\edockery1-521-search-api20240209200534 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\ellie\OneDrive\Desktop\mis-421-assignment-2-jquery-and-ajax-edockery1\edockery1-521-search-api\Properties\PublishProfiles\edockery1-521-search-api20240209200534 - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("edockery1-521-search-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3de4c4056b972176a8335385345a205a7f4fea3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("edockery1-521-search-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("edockery1-521-search-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\edockery1-521-search-api.csproj": {}
+    "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\edockery1-521-search-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\edockery1-521-search-api.csproj": {
+    "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\edockery1-521-search-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\edockery1-521-search-api.csproj",
+        "projectUniqueName": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\edockery1-521-search-api.csproj",
         "projectName": "edockery1-521-search-api",
-        "projectPath": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\edockery1-521-search-api.csproj",
+        "projectPath": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\edockery1-521-search-api.csproj",
         "packagesPath": "C:\\Users\\ellie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\obj\\",
+        "outputPath": "C:\\Users\\ellie\\OneDrive\\Desktop\\mis-421-assignment-2-jquery-and-ajax-edockery1\\edockery1-521-search-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ellie\\AppData\\Roaming\\NuGet\\NuGet.Config",
