@@ -1,0 +1,7 @@
+C:\Users\ellie\OneDrive\Desktop\MIS-521\edockery1-521-search-api\edockery1-521-search-api\obj\Release\net8.0\PubTmp\Out\edockery1-521-search-api.exe
+C:\Users\ellie\OneDrive\Desktop\MIS-521\edockery1-521-search-api\edockery1-521-search-api\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ellie\OneDrive\Desktop\MIS-521\edockery1-521-search-api\edockery1-521-search-api\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ellie\OneDrive\Desktop\MIS-521\edockery1-521-search-api\edockery1-521-search-api\obj\Release\net8.0\PubTmp\Out\edockery1-521-search-api.dll
+C:\Users\ellie\OneDrive\Desktop\MIS-521\edockery1-521-search-api\edockery1-521-search-api\obj\Release\net8.0\PubTmp\Out\edockery1-521-search-api.deps.json
+C:\Users\ellie\OneDrive\Desktop\MIS-521\edockery1-521-search-api\edockery1-521-search-api\obj\Release\net8.0\PubTmp\Out\edockery1-521-search-api.runtimeconfig.json
+C:\Users\ellie\OneDrive\Desktop\MIS-521\edockery1-521-search-api\edockery1-521-search-api\obj\Release\net8.0\PubTmp\Out\edockery1-521-search-api.pdb

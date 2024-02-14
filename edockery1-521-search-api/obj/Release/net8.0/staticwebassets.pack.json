@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\imgs\\lego-hand.png",
+      "PackagePath": "staticwebassets\\imgs\\lego-hand.png"
+    },
+    {
+      "Id": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\imgs\\lego-head-2.png",
+      "PackagePath": "staticwebassets\\imgs\\lego-head-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\imgs\\lego_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\imgs\\lego_wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\imgs\\leog_wallpaper_2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\leog_wallpaper_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ellie\\OneDrive\\Desktop\\MIS-521\\edockery1-521-search-api\\edockery1-521-search-api\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.edockery1-521-search-api.props",
+      "PackagePath": "build\\edockery1-521-search-api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.edockery1-521-search-api.props",
+      "PackagePath": "buildMultiTargeting\\edockery1-521-search-api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.edockery1-521-search-api.props",
+      "PackagePath": "buildTransitive\\edockery1-521-search-api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.edockery1-521-search-api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

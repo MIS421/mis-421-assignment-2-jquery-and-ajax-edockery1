@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\edockery1-521-search-api.props" />
+</Project>

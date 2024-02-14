@@ -1,0 +1,62 @@
+body {
+    background-size: cover;
+    overflow-y: hidden;
+    height: 100vh;
+    position: relative;
+    background-repeat: no-repeat;
+    cursor: url('imgs/lego-hand.png'), auto;
+}
+
+.custom-cursor {
+    cursor: url('imgs/lego-hand.png'), pointer;
+}
+
+.background {
+    background-image: url(imgs/lego_wallpaper.jpg);
+}
+
+.secondBackground {
+    background-image: url(imgs/leog_wallpaper_2.jpg);
+}
+
+#searchResults {
+    visibility: hidden;
+}
+
+#time {
+    visibility: hidden;
+}
+
+#header {
+    font-family: 'Concert One', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+#myDIV {
+    text-align: center;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    gap: 10px
+}
+
+#query {
+    width: 300px;
+    height: 80px;
+    resize: none;
+}
+
+.ui-dialog {
+    position: fixed; 
+    top: 50px; 
+    left: 50%; 
+    transform: translateX(-50%); 
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}

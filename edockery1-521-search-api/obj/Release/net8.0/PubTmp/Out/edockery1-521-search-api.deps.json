@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "edockery1-521-search-api/1.0.0": {
+        "runtime": {
+          "edockery1-521-search-api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "edockery1-521-search-api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

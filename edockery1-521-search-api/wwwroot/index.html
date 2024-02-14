@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/base/jquery-ui.css" integrity="sha384-vIQIPaHJRqkO8xhnLxSZ0rHF6LyiWXbLF3grsa9pv9yDFyOPGrE1teHOuRNMJoZs" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="./imgs/lego-head-2.png">
+    <title>Brick Browser</title>
+</head>
+
+<body class="background">
+
+    <div id="myDIV">
+        <h1 id="header" onclick="changeBackground()">Brick Browser</h1>
+
+        <textarea id="query" placeholder="Search text:"></textarea>
+        <div class="buttons-container">
+            <button onclick="handleSearch()">Search</button>
+            <button id="showTimeButton" onclick="handleTime()">Current Time</button>
+            <button onclick="lucky()">I'm Feeling Lucky</button>
+        </div>
+        
+        <div id="searchResults">
+
+        </div>
+
+        <div id="timeModal" title="Current Time">
+            <div id="time">
+                <!--time will be displayed here-->
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <script type="text/javascript" src="./script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js" integrity="sha384-4D3G3GikQs6hLlLZGdz5wLFzuqE9v4yVGAcOH86y23JqBDPzj9viv0EqyfIa6YUL" crossorigin="anonymous"></script>
+</body>
+
+</html>

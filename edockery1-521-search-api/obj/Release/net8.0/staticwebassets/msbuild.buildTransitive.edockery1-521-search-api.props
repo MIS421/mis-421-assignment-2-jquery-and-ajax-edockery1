@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\edockery1-521-search-api.props" />
+</Project>
